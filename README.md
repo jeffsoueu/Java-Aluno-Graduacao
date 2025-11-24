@@ -1,3 +1,11 @@
+Autores:
+Kauan Jefferson de Morais Alves;
+Vagner Silva da Paixão;
+Eli do Nascimento;
+Matheus Cardoso Correa;
+Israel Aburquerque Carvalho.
+
+
 Manual de Instruções: Controlador de Impressora (Java/JNA) 🖨️ Este programa funciona como um controle remoto para a sua impressora (fiscal ou não fiscal), permitindo o envio de comandos como "Imprimir Texto", "Abrir Gaveta" ou "Cortar Papel".
 
 Para usar, basta ligar o programa e digitar o número da ação desejada no menu principal.
